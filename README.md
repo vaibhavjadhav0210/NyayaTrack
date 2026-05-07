@@ -44,6 +44,8 @@ Every year, Karnataka government departments receive **hundreds of court judgmen
 
 NyayaTrack is **not an AI summarizer**. It is a complete government workflow system — from PDF ingestion to verified, tracked action plans.
 
+Live Link :- https://nyayatrack.vercel.app/
+
 ```
 PDF Upload → AI Extraction → Human Verification → Action Plan → Risk Score → Dashboard
 ```
